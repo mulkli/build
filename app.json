@@ -1,6 +1,6 @@
 {
-    "name": "CANDY",
-    "description": "CANDY",
+    "name": "build",
+    "description": "build",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
